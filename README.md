@@ -26,6 +26,8 @@ You can find the deployed [Frontend](https://restaurantreservationsystemfrontend
 
 The Dashboard page showcases all reservations and tables for a specific date. Each reservation offers options to seat, edit, or cancel it. Tables are presented with their capacity and current status. If a table is occupied, it additionally displays the reservation ID and provides a button to clear the table once the dining is complete.
 
+<img src="Dashboard.PNG">
+
 
 
 ## API
