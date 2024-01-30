@@ -16,11 +16,16 @@ PostgreSQL for the database
 > The software is used only by restaurant personnel when a customer calls to request a reservation.
 > At this point, the customers will not access the system online.
 
+
+You can find the original assignment starter code: [Here](https://github.com/Thinkful-Ed/starter-restaurant-reservation)
+You can find the deployed [Backend](https://restaurantreservationsystembackend.onrender.com)
+You can find the deployed [Frontend](https://restaurantreservationsystemfrontend.onrender.com)
 ## Application Description
 
 ### Dashboard 
 
 The Dashboard page showcases all reservations and tables for a specific date. Each reservation offers options to seat, edit, or cancel it. Tables are presented with their capacity and current status. If a table is occupied, it additionally displays the reservation ID and provides a button to clear the table once the dining is complete.
+
 
 
 ## API
