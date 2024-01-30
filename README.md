@@ -28,6 +28,22 @@ The Dashboard page showcases all reservations and tables for a specific date. Ea
 
 <img src="Dashboard.PNG">
 
+### New Reservation
+The New Reservation page allows you to create a new reservation by providing a first name, last name, mobile number, date of reservation, time of reservation, and number of people in the party.
+
+<img src="Reservations.PNG">
+
+### New Table Page
+The New Table page allows you to add a new table to the restaurant by providing a table name and table capacity.
+
+<img src="CreateNewTable.PNG">
+
+### Edit Reservation
+The Edit Reservation page allows you to edit the reservation you selected.
+
+<img src="ReservationForm.PNG">
+
+
 
 
 ## API
