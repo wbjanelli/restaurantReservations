@@ -2,13 +2,13 @@
 
 ## Summary
 
-I created a restaurant reservation system for my final capstone at my Chegg Skills Engineering program.
+For my final capstone project in the Chegg Skills Engineering program, I developed a restaurant reservation system.
 
-The project required the following technologies:
+This project utilized the following technologies:
 
-React for the client
-Node.js and Express for the API
-PostgreSQL for the database
+- React for the client-side development
+- Node.js and Express for building the API
+- PostgreSQL for the database management
 
 ### From the Assignment
 
