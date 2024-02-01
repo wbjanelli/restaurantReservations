@@ -26,22 +26,17 @@ You can find the deployed [Frontend](https://restaurantreservationsystemfrontend
 
 The Dashboard page showcases all reservations and tables for a specific date. Each reservation offers options to seat, edit, or cancel it. Tables are presented with their capacity and current status. If a table is occupied, it additionally displays the reservation ID and provides a button to clear the table once the dining is complete.
 
-<img src="Dashboard.PNG">
-
-### New Reservation
-The New Reservation page allows you to create a new reservation by providing a first name, last name, mobile number, date of reservation, time of reservation, and number of people in the party.
-
-<img src="Reservations.PNG">
+<img src="Dashboard1.PNG">
 
 ### New Table Page
 The New Table page allows you to add a new table to the restaurant by providing a table name and table capacity.
 
-<img src="CreateNewTable.PNG">
+<img src="Table1.PNG">
 
 ### Edit Reservation
 The Edit Reservation page allows you to edit the reservation you selected.
 
-<img src="ReservationForm.PNG">
+<img src="ReservationForm1.PNG">
 
 
 
