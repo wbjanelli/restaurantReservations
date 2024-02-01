@@ -19,7 +19,7 @@ This project utilized the following technologies:
 
 You can find the original assignment starter code: [Here](https://github.com/Thinkful-Ed/starter-restaurant-reservation)
 You can find the deployed [Backend](https://restaurantreservationsystem-backend.onrender.com/)
-You can find the deployed [Frontend](https://restaurantreservationsystem-frontend.onrender.com/dashboard)
+You can find the deployed [Frontend](https://restaurantreservationsystem-frontend.onrender.com/dashboard).
 ## Application Description
 
 ### Dashboard 
